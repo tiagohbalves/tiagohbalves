@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiagohbalves
-- 👀 I’m interested in physics, scientific programming and data science
-- 🌱 I’m currently learning mainly physics.
+- 👀 I’m interested in physics, mathematic, scientific programming and data science
+- 🌱 I’m currently learning mainly physics and math, also a bit of programming stuff(flutter, django, etc).
 - 📫 How to reach me tiagohbalves@hotmail.com.
 
 <!---
